@@ -3,7 +3,7 @@ Interactive and user friendly stopwatch web application. implement functions for
 
 📚 What I Learned
 Through this project, I learned:
-How to use setInterval and Date.now() to measure time in JavaScript
+How to use setInterval and Date.now() to measure time in JavaScript.
 How to manipulate the DOM to update content dynamically
 Creating a responsive and styled layout with CSS
 Handling user events (like button clicks)
