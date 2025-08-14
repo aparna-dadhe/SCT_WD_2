@@ -19,7 +19,7 @@ JavaScript	Timer logic, event handling, and interactivity
 The stopwatch uses Date.now() to capture the start time and calculates the elapsed time in real-time using setInterval.
 The display is updated every 10 milliseconds to show minutes, seconds, and milliseconds.
 Lap times can be recorded and are displayed in a scrollable list.
-The interface includes four main buttons:
+The interface includes four main buttons
 Start: Begins the stopwatch
 Pause: Freezes the time
 Lap: Records the current time without pausing
