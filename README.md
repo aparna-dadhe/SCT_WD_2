@@ -23,7 +23,7 @@ The interface includes four main buttons
 Start: Begins the stopwatch
 Pause: Freezes the time
 Lap: Records the current time without pausing
-Reset: Clears everything back to zero
+Reset: Clears everything back to zero.
 
 📁 Project Files
 📁 stopwatch-app/
